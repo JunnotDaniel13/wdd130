@@ -1,0 +1,26 @@
+.callout {
+  background-color: #224477;
+  color: white;
+  padding: 20px;
+  width: 450px;
+  font-family: serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.callout img {
+  width: 120px;
+  height: 120px;
+  float: right;
+  border: 3px solid #cccccc;
+  margin-left: 20px;
+}
+
+blockquote {
+  margin: 0;
+  border-bottom: 1px dotted;
+}
+
+cite {
+  float: right;
+}
